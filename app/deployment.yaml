@@ -17,7 +17,7 @@ spec:
     spec:
       containers:
       - name: nodejs
-        image: 818767126012.dkr.ecr.ap-northeast-2.amazonaws.com/pet-i-testapp:119
+        image: 818767126012.dkr.ecr.ap-northeast-2.amazonaws.com/pet-i-testapp:120
         ports:
         - containerPort: 4000
 
